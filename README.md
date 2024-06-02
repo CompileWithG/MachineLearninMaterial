@@ -1,5 +1,6 @@
 # MachineLearninMaterial
 MachineLearning Notes
+0.https://github.com/Spartan-119/Python-for-Data-Science.git
 1.Features(feature vectors) are the input data we feed into the model to get the predicted output.
 2.One-Hot Encoding (categorical values)
 --Dummy variables are binary (0 or 1) variables created to represent a categorical variable with two or more categories. For each category, a dummy variable is created, where the variable is equal to 1 if the category is present, and 0 if it is not.
