@@ -8,8 +8,24 @@ MachineLearning Notes
 ---01 Classification-predicts discrete classes 
 ---02 Regression-predicts continuous values
 4.Dividing dataset into training ,validation and testing
+from sklearn
 5.A regression is a statistical technique that relates a dependent variable to one or more independent (explanatory) variables. A regression model is able to show whether changes observed in the dependent variable are associated with changes in one or more of the explanatory variables.
 6.SVM(Support vector machine)--creates hyperplanes to separate data into classes .(kernel trick method)
+from sklearn.svm import SVR
 https://youtu.be/_YPScrckx28?si=QZZRrKHq4xRk-nvR
 7.sigmoid function (between 0 and 1) used in logistic regression
 --logistic regression
+8.need for dimensionality reduction
+when there are lot of dimesnions(features) WE decrease some dimensions to be able to handle the accuracy,load ,storage
+PCA --principal componenent analysis
+9.BIAS AND VARIANCE 
+10.  DECISION TREES 
+------------
+ENTROPY-MEASURE OF RANDOMNESS TO CHOOSE THE NODE(USED TO CHOOSE ROOT NODE)
+entropyH(D)=-p(y)*log(p(y))
+range-0 to 1
+if entripy is 0 it is most suitable for leaf node 
+if entropy is 1 it needs further splitting
+------information gain
+------gini impurity
+
