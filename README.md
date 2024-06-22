@@ -46,3 +46,14 @@ boosting reduces bias
 in boosting base model have low variance and high bias9we additively combine these models)
 
 13.gradient boosted decision trees(GBDT)
+14.Clustering(unsupervised learning)
+---Intercluster and intracluster
+we want intercluster to be max and intracluster to be min
+-----Partion based clustering(K means OR loyds algorithm)
+-----hierarchial clustering
+------ well seperated 
+------centre based
+------- density based (DBSCAN)
+k means++ is used to choose initial 2 centroid in k means clustering
+
+--hierarchial clustering --agglomeratve(down to up) and divisive(up to down)
