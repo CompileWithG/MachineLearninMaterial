@@ -57,3 +57,22 @@ we want intercluster to be max and intracluster to be min
 k means++ is used to choose initial 2 centroid in k means clustering
 
 --hierarchial clustering --agglomeratve(down to up) and divisive(up to down)
+15.Fine tuning of data models can be done with GridSearchCv(especially svm)
+16.Often time we encounter imbalanced data sets
+17.NLTK(natutal language tool kit)
+Notebooks Used in the course/Heart Failure Prediction System/Heart Failure Prediction 📚.ipynb
+https://github.com/ayush714/ML001-Project-Sources-Code-and-Learning-Materials/blob/3af2e069c065ce3d078d8d4c15aadedf4e3c9d8f/Notebooks%20Used%20in%20the%20course/Heart%20Failure%20Prediction%20System/Heart%20Failure%20Prediction%20%F0%9F%93%9A.ipynb
+https://github.com/ayush714/ML001-Project-Sources-Code-and-Learning-Materials/blob/3af2e069c065ce3d078d8d4c15aadedf4e3c9d8f/Notebooks%20Used%20in%20the%20course/Spam%20Detector%20System/Spam%20Detector%20System.ipynb
+machine learning materials:https://github.com/ayush714/ML001-Project-Sources-Code-and-Learning-Materials/tree/3af2e069c065ce3d078d8d4c15aadedf4e3c9d8f/ML001%20Lecture%20Notes
+TensorFlow 
+1.Neraul Network-a form of Ml which is a layered represenataion of data
+different types of Ml-supervised,unsupervised,reinforcement
+2.Two amin components of tensor flow
+
+---graphs,sessions
+3.a tensor is a generalizaton of vectors and matrices to higher dimesnions
+4.an epoch is simply one streeam of our entire dataset.The number of epochs is the number of times our model will see the entire dataset
+5.Hidden Markov Models-works with probabilituies to predict furture  event or state(weather predictiomn)
+this model works with  probability distribution
+
+
