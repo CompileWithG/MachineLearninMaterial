@@ -74,5 +74,6 @@ different types of Ml-supervised,unsupervised,reinforcement
 4.an epoch is simply one streeam of our entire dataset.The number of epochs is the number of times our model will see the entire dataset
 5.Hidden Markov Models-works with probabilituies to predict furture  event or state(weather predictiomn)
 this model works with  probability distribution
+it needs -states,obseravtion probability,transition probability
 
 
