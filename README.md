@@ -79,4 +79,5 @@ activation functions in NN
 ---Relu,Tanh,Sigmoid
 
 6.optimizer is the function that does the back propogation for us(maps the cost function and goes towards global minimum)
-
+7.relu-rectifier linear unit
+8.
