@@ -75,5 +75,8 @@ different types of Ml-supervised,unsupervised,reinforcement
 5.Hidden Markov Models-works with probabilituies to predict furture  event or state(weather predictiomn)
 this model works with  probability distribution
 it needs -states,obseravtion probability,transition probability
+activation functions in NN
+---Relu,Tanh,Sigmoid
 
+6.optimizer is the function that does the back propogation for us(maps the cost function and goes towards global minimum)
 
