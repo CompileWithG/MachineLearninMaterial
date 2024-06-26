@@ -80,4 +80,5 @@ activation functions in NN
 
 6.optimizer is the function that does the back propogation for us(maps the cost function and goes towards global minimum)
 7.relu-rectifier linear unit
-8.
+8.NLP(Natural language processing)-RNN recurrent nueral networks
+algorithms--1.bag of words2.word embeddings
