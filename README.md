@@ -67,7 +67,7 @@ machine learning materials:https://github.com/ayush714/ML001-Project-Sources-Cod
 TensorFlow 
 1.Neraul Network-a form of Ml which is a layered represenataion of data
 different types of Ml-supervised,unsupervised,reinforcement
-2.Two amin components of tensor flow
+2.Two main components of tensor flow
 
 ---graphs,sessions
 3.a tensor is a generalizaton of vectors and matrices to higher dimesnions
@@ -80,5 +80,9 @@ activation functions in NN
 
 6.optimizer is the function that does the back propogation for us(maps the cost function and goes towards global minimum)
 7.relu-rectifier linear unit
+all the neural networks seen before were feed forward neural networks
 8.NLP(Natural language processing)-RNN recurrent nueral networks
 algorithms--1.bag of words2.word embeddings
+word embedings-clssify words as vectors in a 3D plane,similar words lie close to each other in this 3d plane(the similar word vectors point in the similar directions)
+LSTM(long short term memory) is a type of layer in the RNN
+first text goes through embeddings layer and then througH LSTM
